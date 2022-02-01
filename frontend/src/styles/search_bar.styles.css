@@ -1,0 +1,15 @@
+.search_wrapper > form:nth-child(1) > input:nth-child(1) {
+    height: 2.5rem;
+    width: 25rem;
+    border: none;
+    border-radius: .5rem;
+    padding: 0 1rem;
+
+    font-size: 1rem;
+    color: rgb(50, 50, 50);
+}
+
+.search_wrapper > form:nth-child(1) > input:nth-child(2) {
+    height: 2.5rem;
+    border: none;
+}

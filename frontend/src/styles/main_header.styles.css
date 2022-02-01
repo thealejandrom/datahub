@@ -1,0 +1,35 @@
+.header_wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header_left {
+    display: flex;
+    align-items: center;
+}
+
+.header_right {
+    display: flex;
+    align-items: center;
+}
+
+.logo_wrapper {
+    max-height: 2.5rem;
+    margin-right: 3rem;
+}
+
+#main_logo {
+    max-height: inherit;
+}
+
+/* Right Section of Header */
+.link_wrapper {
+    display: flex;
+}
+
+.link_wrapper li {
+    color: rgb(228, 228, 228);
+    list-style: none;
+    margin-left: 2.5rem;
+}
